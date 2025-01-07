@@ -61,11 +61,15 @@ Employee Salary: 60000
 
 ## Screenshots
 
-Main Menu
+-> Main Menu
+![{D8DD25B6-4A0C-4DB8-BEC9-6FA8AD42079E}](https://github.com/user-attachments/assets/62841817-020a-4936-971c-55e973df5e92)
 
-Add Employee
+-> Add Employee
+![{06FB3BA2-190F-4BC1-BEC3-55AD7E2B3A68}](https://github.com/user-attachments/assets/815ae357-ae34-49d1-9f40-d42081408576)
 
-View Employee
+-> View Employee
+![{9F96B26B-72E4-480A-ACDD-CA187B96AFF8}](https://github.com/user-attachments/assets/f1b046c3-e23e-4997-8278-5d850d426058)
+
 
 ## Future Enhancements
 Integration with a database for more secure and scalable data storage.
