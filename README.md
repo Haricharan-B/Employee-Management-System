@@ -59,14 +59,17 @@ Employee Contact  : 9876543210
 Email Information : john.doe@example.com
 Employee position : Software Engineer
 Employee Salary   : 60000
-Screenshots
+
+
+## Screenshots
+
 Main Menu
 
 Add Employee
 
 View Employee
 
-Future Enhancements
+## Future Enhancements
 Integration with a database for more secure and scalable data storage.
 GUI-based application for a better user experience.
 Role-based access control for administrative and user-level operations.
