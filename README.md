@@ -49,16 +49,14 @@ File Storage
 Employee data is stored in text files in the format:
 file<EmployeeID>.txt
 
-Example:
-text
-Copy code
-Employee ID:123
-Employee Name     : John Doe
-Father's Name     : Mark Doe
-Employee Contact  : 9876543210
-Email Information : john.doe@example.com
-Employee position : Software Engineer
-Employee Salary   : 60000
+Example Employee Data:
+Employee ID: 123
+Employee Name: John Doe
+Father's Name: Mark Doe
+Employee Contact: 9876543210
+Email Information: john.doe@example.com
+Employee Position: Software Engineer
+Employee Salary: 60000
 
 
 ## Screenshots
